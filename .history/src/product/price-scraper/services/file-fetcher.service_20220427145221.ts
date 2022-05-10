@@ -1,0 +1,4 @@
+@Inject
+export class FileFetcher {
+
+}

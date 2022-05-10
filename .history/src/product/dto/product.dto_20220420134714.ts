@@ -1,0 +1,23 @@
+import { PriceDto } from "./price.dto";
+
+export class ProductDto {
+  productHash: string;
+
+  sku: string;
+
+  service: string;
+
+  productFamily: string;
+
+  attributes: string;
+
+  prices: string;
+
+  vendorName : string;
+
+  region: string;
+
+  attribuyes: string;
+
+  prices: PriceDto[]
+}

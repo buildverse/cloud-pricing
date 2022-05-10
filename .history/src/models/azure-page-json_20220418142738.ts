@@ -1,0 +1,3 @@
+type PageJson = {
+    NextPageLink: string;
+  };
